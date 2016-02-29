@@ -1,3 +1,5 @@
+# This fs-webdev fork exists for the [memories](https://github.com/fs-webdev/memories) repo. It is necessary until page.js cuts a new release from master because we need features in master that have been added since the last release. Once a release greater than `1.6.4` has been published, we can pin to that release and delete this fork.
+
  ![page router logo](http://f.cl.ly/items/3i3n001d0s1Q031r2q1P/page.png)
 
 Tiny Express-inspired client-side router.
